@@ -1,0 +1,13 @@
+.container_info_item{
+    margin: 20px 0px;
+
+}
+.label{
+    font-size: 15px;
+    color: #6a7d8b;
+}
+.value{
+    font-size: 37px;
+    font-weight: bold;
+    color: #101c40;
+}

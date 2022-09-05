@@ -1,0 +1,26 @@
+.container1{
+    background-color: #1550ff;
+}
+.container2{
+    background-color: #e2e3e3;
+} 
+
+.container1,
+.container2{
+    height: 100px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.container1 img,
+.container2 img{
+    width: 40px;
+    height: 40px;
+}
+
+.opacity{
+    opacity:.1;
+}
